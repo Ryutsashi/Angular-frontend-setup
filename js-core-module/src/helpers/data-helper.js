@@ -11,3 +11,5 @@ const DataHelper = {
         return map;
     }
 }
+
+export { DataHelper };

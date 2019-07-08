@@ -1,1 +1,1 @@
-export { DataHelper } from './Helpers/DataHelper.js';
+export { DataHelper } from './helpers/data-helper.js';

@@ -1,0 +1,21 @@
+{
+  "name": "js-core-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./target/build/js-core.js",
+  "module": "./target/build/js-core.js",
+  "files": [
+    "./target/build/js-core.js",
+    "package.json"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Ryutsashi",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^1.16.0"
+  },
+  "devDependencies": {
+  }
+}
