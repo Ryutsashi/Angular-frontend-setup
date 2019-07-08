@@ -14,8 +14,8 @@
   "author": "Ryutsashi",
   "license": "ISC",
   "dependencies": {
-    "rollup": "^1.16.0"
   },
   "devDependencies": {
+    "rollup": "^1.16.0"
   }
 }
