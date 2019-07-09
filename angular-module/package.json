@@ -8,8 +8,9 @@
     },
     "author": "Ryutsashi",
     "license": "ISC",
-    "dependencies": {},
-    "devDependencies": {
+    "dependencies": {
+        "@angular/cli": "^8.1.0",
         "typescript": "^3.5.3"
-    }
+    },
+    "devDependencies": {}
 }
