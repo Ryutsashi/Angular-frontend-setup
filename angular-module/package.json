@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "@angular/common": "^8.1.0",
-        "@angular/core": "^8.1.0",
+        "@angular/core": "^11.0.5",
         "rxjs": "^6.5.2",
         "zone.js": "^0.9.1"
     },
